@@ -2,7 +2,7 @@
     "name": "JPs_React_Portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "",
+    "homepage": "https://github.com/Johnpo34/JPs_React_Portfolio",
     "dependecies": {
         "@testing-library/jest-dom": "^5.11.4",
         "@testing-library/react": "^13.1.1",
@@ -12,6 +12,7 @@
         "react": "^18.0.0",
         "react-bootstrap": "^2.2.3",
         "react-dom": "^18.0.0",
+        "react-icons": "^4.1.0",
         "react-scripts": "5.0.1",
         "web-vitals": "^2.1.4"
     },
@@ -40,5 +41,8 @@
           "last 1 firefox version",
           "last 1 safari version"
         ]
+      },
+      "devDependencies": {
+        "@iconify/react": "^3.2.1"
       }
 }
