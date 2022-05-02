@@ -6,12 +6,12 @@ import PortfolioContainer from "./components/PortfolioContainer";
 
 function App() {
     return {
-        < div className = "app" >
-            <Header/>
-            <PortfolioContainer/>
-            <Footer/>
-        </div >
+        <div className="app">
+        <Header/>
+        <PortfolioContainer/>
+        <Footer/>
+        </div>
     };
 };
 
-export default app;
+export default App;
