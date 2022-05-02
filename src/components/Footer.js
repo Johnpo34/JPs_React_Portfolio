@@ -26,3 +26,5 @@ function Footer (){
         </div>
     )
 }
+
+export default footer
