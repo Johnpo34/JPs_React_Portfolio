@@ -5,13 +5,13 @@ import Footer from "./components/Footer";
 import PortfolioContainer from "./components/PortfolioContainer";
 
 function App() {
-    return {
+    return (
         <div className="app">
         <Header/>
         <PortfolioContainer/>
         <Footer/>
         </div>
-    };
+    );
 };
 
 export default App;
